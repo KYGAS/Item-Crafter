@@ -21,13 +21,17 @@ MaterialEnchantData.xml
 [Mandatory] 6) Enter ItemId in the "ItemID" field, press Search.
 
 [Optional] Browse through the lists ( Equipment Stats/ Equipment Passives/ Equipment Categories/ ... )
+
 [Optional] Select an ID of the item/stat/passive/category/enchantStep/enchantMaterial
+
 [Optional] Click the "Edit <Text>" button below the list and check the <Edit Chosen Item Stat> box,
-  you will see XML text which corresponds to the selected item/stat/passive/category/...
+  \tyou will see XML text which corresponds to the selected item/stat/passive/category/...
+  
 [Optional] Freely edit the XML section and upon finish click Apply.
+  
 [Optional] <Save to the file that has been loaded?> 
-  After clicking Apply if the checkbox is marked, the file loaded earlier responsible for the option you selected will be updated and lists refreshed.
-  If the checkbox is not marked you will be prompted to choose where to save the file and the file name.
+  \tAfter clicking Apply if the checkbox is marked, the file loaded earlier responsible for the option you selected will be updated and lists refreshed.
+  \tIf the checkbox is not marked you will be prompted to choose where to save the file and the file name.
 
 ### Contact
   Discord : KYGAS#8575
