@@ -36,3 +36,6 @@ MaterialEnchantData.xml
 ### Contact
   Discord : KYGAS#8575
   Development Server [64 bit pserver] : https://discord.gg/SjE7SBuAx2
+  
+#### Source
+  If you have a good enough reason, you can contact me for the source code. Keeping in mind that it would be shared only if I think you have a good idea at improving the software. Code is spaghetti, just works :)
